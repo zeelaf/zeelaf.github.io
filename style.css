@@ -4,6 +4,22 @@
 	padding-bottom: 10%;
 	color: #fff;
 }
+
 body {
-	background: url(intro-bg.jpg) no-repeat center;
+	background: url(intro2-bg.jpg) no-repeat center;
+}
+.signup-form {
+	color: #fff;
+}
+
+#mc_embed_signup{ background-color: rgba(255,255,255,.5);
+ clear:left; font:14px Helvetica,Arial,sans-serif; }
+ #mc_embed_signup input.email {
+    display: block;
+    padding: 8px 0;
+    margin: 0 4% 10px 0;
+    text-indent: 5px;
+    width: 58%;
+    min-width: 130px;
+    color: black;
 }
